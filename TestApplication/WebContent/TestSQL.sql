@@ -1,3 +1,5 @@
+create database todo;
+
 CREATE TABLE `login` (
   `user_id` int(11) NOT NULL AUTO_INCREMENT,
   `username` varchar(45) NOT NULL,
